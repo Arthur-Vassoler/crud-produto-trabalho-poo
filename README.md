@@ -1,6 +1,8 @@
 # Projeto Crud de Produtos da matéria POO Avançada
 ## ````Prof. Luciano Ferretto ````
 
+##````Alunos: André Canton, Guilherme Bortolotti, Bruno Abido, Matheus Rodrigues, Arthur Vassoler````
+
 ## URLs de acesso
 
 URL: http://localhost:8080/api/v1
@@ -147,3 +149,5 @@ Requisições para a API devem seguir os padrões:
 <br>
 
 -----
+
+
