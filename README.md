@@ -1,7 +1,7 @@
 # Projeto Crud de Produtos da matéria POO Avançada
 ## ````Prof. Luciano Ferretto ````
 
-##````Alunos: André Canton, Guilherme Bortolotti, Bruno Abido, Matheus Rodrigues, Arthur Vassoler````
+## ````Alunos: André Canton, Guilherme Bortolotti, Bruno Abido, Matheus Rodrigues, Arthur Vassoler````
 
 ## URLs de acesso
 
